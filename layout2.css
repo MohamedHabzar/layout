@@ -1,0 +1,37 @@
+.layout1{
+    background-color:aqua;
+    padding: 30px; 
+    margin-top: 8px;
+    display:flex;
+    justify-content: center;
+
+}
+.layout2{
+    background-color:aqua;
+    padding: 30px; 
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+.layout3{
+    background-color:aqua;
+    padding: 30px; 
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+.layout4{
+    background-color:aqua;
+    padding: 30px; 
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+.layout5{
+    background-color:aqua;
+    padding: 30px; 
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+
+}
